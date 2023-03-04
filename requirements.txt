@@ -1,0 +1,6 @@
+azure-functions==1.13.2
+openai
+twilio
+requests
+bs4
+openai

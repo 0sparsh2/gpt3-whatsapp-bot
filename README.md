@@ -24,4 +24,4 @@ This is a repository for a Whatsapp bot (Twilio) that uses GPT-3 for generating 
 10. Sit back and relax \
 Feel free to use and customize this bot for your own purposes. Don't forget to give credit if you do! \
 
-!['Bot.jpeg']('GPT-3 Whatsapp Bot')
+![GPT-3 Whatsapp Bot](Bot.jpeg)

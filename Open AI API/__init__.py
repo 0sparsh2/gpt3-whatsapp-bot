@@ -7,7 +7,7 @@ import azure.functions as func
 #sample request
 # {"model":"text-davinci-003", "prompt":"Test Prompt",  "temperature":0.6, "max_tokebs":200}
 
-secret_key = "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"
+secret_key = "ADD YOUR OPEN AI KEY HERE"
 
 
 def main(req: func.HttpRequest) -> func.HttpResponse:

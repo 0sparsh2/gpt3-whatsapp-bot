@@ -21,10 +21,10 @@ This is a repository for a Whatsapp bot (Twilio) that uses GPT-3 for generating 
 7. Paste the code in `__init__`
 8. You can go to functions in it and set the frequency of output you desire
 9. Deploy it
-10. Sit back and relax \
+10. Sit back and relax 
 
-Feel free to use and customize this bot for your own purposes. Don't forget to give credit if you do! \
+Feel free to use and customize this bot for your own purposes. Don't forget to give credit if you do! 
 
-** I will soon Upload and Link a youtube video with complete tutorials for this
+**I will soon Upload and Link a youtube video with complete tutorials for this
 
 ![GPT-3 Whatsapp Bot](Bot.jpeg)
